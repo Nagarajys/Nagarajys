@@ -37,14 +37,17 @@ building my foundation in **Python, Problem Solving, DSA and AI**.
   - Parameters & Arguments
   - Return Values
   - List & Dictionary Comprehensions
-  - OOP *(currently learning)*
+  - Object oriented prgram
+  - Menu driven programs
+  - Errors and Exception handling
+  - File handling *(currently learning)*
 
 ### Next on My Roadmap
 
 - 🔀 Git & GitHub
+- - 🧠 Data Structures & Algorithms
 - 🌐 HTML, CSS & JavaScript
 - 🗄️ SQL
-- 🧠 Data Structures & Algorithms
 - 🤖 AI & Machine Learning
 - 📊 Data Science & ML Libraries
 - 🚀 AI Engineering
@@ -66,6 +69,7 @@ A Python-based console application built to manage student expenses and budgets.
 - Conditional Statements
 - User Input
 - Basic Problem Solving
+- object oriented program
 
 **Features:**
 - Set Budget
