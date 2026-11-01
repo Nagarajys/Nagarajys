@@ -1,5 +1,31 @@
-[ReadMe (1).md](https://github.com/user-attachments/files/34232356/ReadMe.1.md)# 💫 About Me:
-- 🔭 I’m currently working on building core projects in Python and learning Git fundamentals.<br>- 👯 I’m looking to collaborate on beginner-friendly open-source software and Python utility tools.<br>- 🤔 I’m looking for help with advancing into Data Structures & Algorithms (DSA) and Web Development.<br>- 🌱 I’m currently studying as a B.Tech CSE (AI & ML) student, learning engineering and programming prerequisites.<br>- 💬 Ask me about Python fundamentals, Object-Oriented Programming (OOP) concepts, or setting up Git repositories.<br>- ⚡ Fun fact: I want to become an AI engineer!<br>- 📫 Reach me out at: nagaraj.kondlur@gmail.com or nagaraj.kondlur7@gmail.com<br>        or Linked in - www.linkedin.com/in/nagaraj-ys-50a16a422
+# 💫 About Me
+
+**🔭 Current Focus**  
+I am currently working on **building core projects in Python** and **mastering Git fundamentals**.
+
+**👯 Collaboration Goals**  
+I am actively looking to collaborate on **beginner-friendly open-source software** and **Python utility tools**.
+
+**🤔 Learning Support**  
+I am seeking guidance and help with **advancing into Data Structures & Algorithms (DSA)** and **Web Development**.
+
+**🌱 Academic Background**  
+I am a **B.Tech CSE (AI & ML) student**, currently learning engineering principles and core programming prerequisites.
+
+**💬 Tech Conversations**  
+Ask me about **Python fundamentals**, **Object-Oriented Programming (OOP) concepts**, or **setting up Git repositories**.
+
+**⚡ Fun Fact**  
+**My ultimate goal is to become an AI Engineer!** 🤖
+
+---
+
+### 📫 Connect With Me
+
+*   📧 **Primary Email:** [nagaraj.kondlur@gmail.com](mailto:nagaraj.kondlur@gmail.com)
+*   📧 **Alternative Email:** [nagaraj.kondlur7@gmail.com](mailto:nagaraj.kondlur7@gmail.com)
+*   💼 **LinkedIn:** [Nagaraj YS](https://linkedin.com)
+
 
 
 ## 🌐 Socials:
